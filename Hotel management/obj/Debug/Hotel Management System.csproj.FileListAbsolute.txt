@@ -1,0 +1,96 @@
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.xml
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.CheckoutScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.DepartmentsScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.EmployeesScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.GuestsScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.AdminHotelsView.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.HotelIntroScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.HotelsScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.BookingsScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.CreatePassword.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ResetPassword.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.RoomsScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.RoomType.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ServicesScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ShowDefaultScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.SuperAdminLogin.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Dashboard.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Login.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.SplashScreen.resources
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Ma.662265F2.Up2Date
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ibrahim\Desktop\Hotel-Management-System-master\Hotel Management System\bin\Debug\x64\SqlServerSpatial160.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\x86\SqlServerSpatial160.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\x64\SqlServerSpatial160.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.exe
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Hotel Management System.pdb
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.Interfaces.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.System.Drawing.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Guna.UI2.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\EPPlus.xml
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.CheckoutScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.DepartmentsScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.EmployeesScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.GuestsScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.AdminHotelsView.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.HotelIntroScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.HotelsScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.BookingsScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.CreatePassword.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ResetPassword.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.RoomsScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.RoomType.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ServicesScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Screens.ShowDefaultScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Controllers.SuperAdminLogin.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Dashboard.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Login.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel_Management_System.SplashScreen.resources
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Ma.662265F2.Up2Date
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.exe
+F:\3IIR\Hotel-Management-System-master\Hotel Management System\obj\Debug\Hotel Management System.pdb
